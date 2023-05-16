@@ -9,7 +9,7 @@ After importing I create a dashboard using the dataset that cleaned dataset that
 
 The requirements The client is only interested in the top 20 highest ranking countries. All your visuals should be for the top 20 highest ranking countries.
 
-
+I used Tableaus to make my dasboard. See below links 
 [Link to my dashboard](https://public.tableau.com/views/WealthOfNations3/Dashboard2?:language=en-GB&:display_count=n&:origin=viz_share_link)
 
 [Link to my dasboard part 2](https://public.tableau.com/views/WealthOfNations3part2/Dashboard3?:language=en-GB&:display_count=n&:origin=viz_share_link)
